@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kQink-CHMW
+- 👋 Hi, I’m @HuangMaoWen
 - 👀 I’m a freshman in CS
 - 🌱 I’m currently learning C&JAVA&C++
 - 💞️ I’m looking to find my goals.
